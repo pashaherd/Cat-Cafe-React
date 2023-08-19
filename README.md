@@ -5,9 +5,9 @@ Starting with the BrowserRouter package in react, its a very efficient way of im
 
 A Challenge that arose during this project was fully understanding useState hook. useState works by comparing the virtual dom and the actual dom to check if the application state has changed. if so, the component & all child components will be rerendered. this process is asynchronous and can cause some funky behaviour if not understood correctly. 
 
-Reacts best perk in my opinion is rhe flexibiliy of the jsx syntax. This really makes the differnece when u want to render certain elements or content under certian conditions. 
+Reacts best perk in my opinion is the flexibility of the jsx syntax. This really makes the difference when u want to render certain elements or content under certian conditions. 
 
-To Conclude, this react project was fun & very insightful when it comes to understanding the react under the hood. 
+To Conclude, this react project was fun & very insightful when it comes to understanding react under the hood. 
 
 
 ## Running React on Repl.it
